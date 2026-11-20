@@ -6,7 +6,7 @@ HQ is the system Param uses to run a small product company with ten Claude Code 
 
 One founder, ten Claude Code seats in two Claude organizations, and a control layer that keeps a human in charge.
 
-- **The company.** Three Windows-first products: Voxmelt, local voice to text with an on-device AI text studio; Seqtrix, Windows automation, focus and file encryption; and Personifold, launch packs such as an app mascot, built on its own engine, which includes a local pipeline that turns a script into a lip-synced presenter video.
+- **The company.** Three Windows-first products: Voxmelt, local voice to text with an on-device AI text studio; Seqtrix, Windows automation, focus and file encryption; and Personifold, original app mascots, each sold to one buyer with its launch-day files, built on its own engine, which includes a local pipeline that turns a script into a lip-synced presenter video.
 - **The seats.** Both companies, Voxmelt and Seqtrix, were accepted into Anthropic's startup program, a program of Claude seats and credits. Each organization has five seats, one per role: Product and Research, Admin and Marketing, Support and QA, Engineering, and Sales and Growth. Any seat may work on any product.
 - **Main.** A Claude desktop app session, senior to every seat, keeps the account, secret and deploy steps. Day to day HQ runs itself, and main acts when asked.
 - **Param** decides. Nothing outward, such as a post, a send, a payment or a product going live, happens without his click.
@@ -41,7 +41,7 @@ Every seat has a shell and git, and some runs get a browser. One wrong step coul
 
 - **Voxmelt**: https://voxmelt.com and the Microsoft Store listing https://apps.microsoft.com/detail/9PFCDCVKK1NQ. 63 tagged versions since May 2026, from v0.1.0 to v1.20.0; one of them, v1.20.0, since HQ started.
 - **Seqtrix**: https://seqtrix.com and the Microsoft Store listing https://apps.microsoft.com/detail/9P5JT0BXFPS9. 42 tagged versions since April 2026, the latest v0.18.0; four of them, v0.16.0 to v0.18.0, since HQ started.
-- **Personifold**: https://personifold.com, a website with no app releases.
+- **Personifold**: https://personifold.com, a website that sells original app mascots, with no app releases; launched on Product Hunt on 17 Nov 2026 (https://www.producthunt.com/products/personifold-launch-kits).
 - **Website go-lives**: 107 are recorded in the deploy ledger: 60 for seqtrix.com, 34 for voxmelt.com and 13 for personifold.com.
 
 ## What went wrong and what was learned
@@ -83,6 +83,7 @@ That loop is the question I most want to work on at frontier scale: how far AI s
 
 - 2026-10-17: public page opened.
 - 2026-11-18: rewritten with how HQ works now (critic gate, merge queue, card-by-card go-lives, security reviews, resource gates), what it shipped, what went wrong, and counts from its own records.
+- 2026-11-20: Personifold described as it sells today, original app mascots each sold once, and its Product Hunt launch added.
 
 Written with Claude from my notes and HQ's own docs and records.
 
